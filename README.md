@@ -1,6 +1,6 @@
 <div>
   <div align=end>
-    <img src="https://github.com/MarianoMigueles/GitHubContent/blob/main/MYHEROE.png" alt="GitHub Heroe" widght="100%">
+    <img src="Hero.png" alt="GitHub Heroe" widght="100%">
     <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Developer+Student;Full-Stack+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
   </div>
 </div>
